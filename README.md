@@ -1,4 +1,6 @@
 
-video how it works
-https://setelnow.slack.com/files/U04LTSGNU7K/F0760EZ0K40/screenshare_-_2024-05-28_11_58_34_am.webm
+# QA Story point calculator
+
+simple chrome plugin calculator to calculate the field `QA Story Point Estimate` in jira issues finder, so we can plan QA capacity in each sprint without manual calculating
+
 
